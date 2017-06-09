@@ -1,9 +1,9 @@
 # 2017 Snakemake ILLO
 
-- June 10th, 2017
-- Video: **TO BE ADDED**
+- June 9th, 2017
+- Video: https://www.youtube.com/watch?v=yo4h4IBJccY
 
-- (Previously: doit ILLO https://www.youtube.com/watch?v=TMxUmuKtqNI)
+- (Previously: [doit ILLO](https://www.youtube.com/watch?v=TMxUmuKtqNI))
 
 ## Installation
 
